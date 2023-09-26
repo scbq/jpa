@@ -1,0 +1,15 @@
+com/mycompany/jpatodocode/Logica/Materia_.class
+com/mycompany/jpatodocode/Persistencia/ControladoraPersistencia.class
+com/mycompany/jpatodocode/Persistencia/MateriaJpaController.class
+com/mycompany/jpatodocode/Persistencia/AlumnoJpaController.class
+com/mycompany/jpatodocode/Persistencia/exceptions/PreexistingEntityException.class
+com/mycompany/jpatodocode/Logica/Alumno.class
+com/mycompany/jpatodocode/Logica/Materia.class
+com/mycompany/jpatodocode/Persistencia/CarreraJpaController.class
+com/mycompany/jpatodocode/JpaTodoCode.class
+com/mycompany/jpatodocode/Logica/Carrera_.class
+com/mycompany/jpatodocode/Logica/ControladoraLogica.class
+com/mycompany/jpatodocode/Logica/Alumno_.class
+com/mycompany/jpatodocode/Persistencia/exceptions/IllegalOrphanException.class
+com/mycompany/jpatodocode/Persistencia/exceptions/NonexistentEntityException.class
+com/mycompany/jpatodocode/Logica/Carrera.class
